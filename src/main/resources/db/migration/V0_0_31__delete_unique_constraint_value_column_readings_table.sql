@@ -1,0 +1,1 @@
+ALTER TABLE cold_water_readings DROP CONSTRAINT cold_water_readings_value_key;

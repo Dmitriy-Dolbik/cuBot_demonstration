@@ -1,0 +1,1 @@
+ALTER TABLE apartments ADD COLUMN cleaning_date timestamp with time zone;

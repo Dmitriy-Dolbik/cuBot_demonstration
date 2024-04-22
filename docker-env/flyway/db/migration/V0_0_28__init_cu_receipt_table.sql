@@ -1,0 +1,2 @@
+INSERT INTO cu_receipt(total_cost, electricity_cost, cold_water_rate, hot_water_rate, cold_water_consumption, hot_water_consumption, electricity_day_rate, internetPayment)
+VALUES (9389.95, 1374.62, 36.54, 126.68, 12, 11, 6.51, 600);

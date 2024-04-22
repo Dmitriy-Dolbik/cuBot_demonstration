@@ -1,0 +1,1 @@
+ALTER TABLE cu_receipt RENAME COLUMN internetPayment to internet_payment;

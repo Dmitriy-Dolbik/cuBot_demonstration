@@ -1,0 +1,1 @@
+ALTER TABLE cold_water_readings ALTER COLUMN meter_id SET NOT NULL;

@@ -1,0 +1,1 @@
+ALTER TABLE cold_water_meters ADD COLUMN number INTEGER NOT NULL UNIQUE;

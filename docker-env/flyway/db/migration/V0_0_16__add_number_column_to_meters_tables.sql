@@ -1,0 +1,2 @@
+ALTER TABLE hot_water_meters ADD COLUMN number INTEGER NOT NULL UNIQUE;
+ALTER TABLE electricity_meters ADD COLUMN number INTEGER NOT NULL UNIQUE;

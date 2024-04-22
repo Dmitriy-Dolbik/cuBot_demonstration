@@ -1,0 +1,1 @@
+ALTER TABLE users ADD COLUMN need_to_show_cu_payment boolean;

@@ -1,0 +1,1 @@
+ALTER TABLE users ALTER COLUMN apartment_id DROP NOT NULL;

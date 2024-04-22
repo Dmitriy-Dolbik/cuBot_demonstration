@@ -1,0 +1,2 @@
+ALTER TABLE hot_water_readings DROP CONSTRAINT hot_water_readings_value_key;
+ALTER TABLE electricity_readings DROP CONSTRAINT electricity_readings_value_key;

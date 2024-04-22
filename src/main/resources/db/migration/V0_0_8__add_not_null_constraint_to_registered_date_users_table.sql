@@ -1,0 +1,1 @@
+ALTER TABLE users ALTER COLUMN registered_date SET NOT NULL;

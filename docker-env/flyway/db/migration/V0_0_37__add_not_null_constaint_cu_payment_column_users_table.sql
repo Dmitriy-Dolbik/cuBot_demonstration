@@ -1,0 +1,1 @@
+ALTER TABLE users ALTER COLUMN need_to_show_cu_payment SET NOT NULL;
